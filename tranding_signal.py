@@ -21,7 +21,7 @@ MAX_DAILY_LOSS = -30.0
 TRADE_FEE = 0.001
 
 # ---------- GITHUB AUTO-UPGRADE ----------
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/nagraharkamal-hash/tranding-bot/main/trading_signal.py"  # CHANGE THIS
+GITHUB_RAW_URL = "https://raw.githubusercontent.com/nagraharkamal-hash/trading-bot/main/trading_signal.py"  # CHANGE THIS
 
 def check_for_upgrade():
     try:
